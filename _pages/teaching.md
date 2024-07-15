@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-# University of Groningen
+## University of Groningen
 Department of Computer Science, 2020 - 2024
 
 ## Advanced Topics in Security and Privacy (MSc Course)  
@@ -17,7 +17,7 @@ Teaching activities include:
 
 More on this course can be found in [ocasys](https://ocasys.rug.nl/2022-2023/catalog/course/WMCS001-05){:target="\_blank"}
 
-## Student Supervision
+# Student Supervision
 The following is a list of student projects that I supervised: 
 - Decentralizing the Prover for Private Transactions in Zero-Knowledge Rollups, Abel Nissen (2024).
 - ["Collaborative Commit-and-Proof SNARKs"](https://fse.studenttheses.ub.rug.nl/32186/), Leon Visscher (2024).
