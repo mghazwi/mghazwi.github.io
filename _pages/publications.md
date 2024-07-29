@@ -13,7 +13,7 @@ author_profile: true
 
 ### 2024 ###
 
-* M. Alghazwi, T. Bontekoe, L. Visscher, and F. Turkmen, “Collaborative CP-NIZKs: Modular, Composable Proofs for Distributed Secrets”, under-review, 2024.
+* M. Alghazwi, T. Bontekoe, L. Visscher, and F. Turkmen, “Collaborative CP-NIZKs: Modular, Composable Proofs for Distributed Secrets”, under-review, 2024. <u><a href="https://eprint.iacr.org/2024/1209" target="_blank"> Paper </a></u>
 * M. Alghazwi, D. Davies-Batista, D. Karastoyanova, and F. Turkmen, “VPAS: Publicly Verifiable and Privacy-Preserving Aggregate Statistics on Distributed Datasets." under-review, 2024. <u><a href="https://arxiv.org/abs/2403.15208" target="_blank"> Paper </a></u>
 
 ### 2023 ###
